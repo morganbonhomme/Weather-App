@@ -1,0 +1,8 @@
+.App #title{
+  font-family: 'Baloo 2', cursive;
+  text-align: center;
+  font-size: 68px;
+  font-weight: 300;
+  color: white;
+  margin-top: 150px;
+}
